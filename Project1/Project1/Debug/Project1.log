@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\administrator\desktop\github_code\tinymp3\project1\project1\main.c(26): warning C4244: “函数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\users\administrator\desktop\github_code\tinymp3\project1\project1\main.c(30): warning C4244: “函数”: 从“uint64_t”转换到“size_t”，可能丢失数据
+c:\users\administrator\desktop\github_code\tinymp3\project1\project1\main.c(211): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\desktop\github_code\tinymp3\project1\project1\main.c(209): warning C4244: “初始化”: 从“uint64_t”转换到“size_t”，可能丢失数据
+main.obj : error LNK2019: 无法解析的外部符号 _drwav_f32_to_s16，该符号在函数 _wavRead_int16 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _drwav_open_and_read_file_s16，该符号在函数 _wavRead_int16 中被引用
+C:\Users\Administrator\Desktop\github_code\tinymp3\Project1\Debug\Project1.exe : fatal error LNK1120: 2 个无法解析的外部命令
